@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1002183148212",
+    "project_id": "flows-5e64b",
+    "storage_bucket": "flows-5e64b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1002183148212:android:4bd84076aeac864f24cde1",
+        "android_client_info": {
+          "package_name": "com.example.jeumpa_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1002183148212-dl9dgfhn6nm2e84pp4cmp1i0ehps8crq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9YMbJM-CGQsfCc4Fgrc5h6NW21u8IFKc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1002183148212-dl9dgfhn6nm2e84pp4cmp1i0ehps8crq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
